@@ -1,1 +1,4 @@
-ECHO is on.
+<conbody>
+  <p>Merging (also called integration) in revision control, is a fundamental operation that
+    reconciles multiple changes made to a revision-controlled collection of files.</p>
+</conbody>
