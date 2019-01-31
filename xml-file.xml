@@ -1,4 +1,7 @@
 <conbody>
   <p>Merging (also called integration) in revision control, is a fundamental operation that
-    reconciles multiple changes made to a revision-controlled collection of files.</p>
+    reconciles multiple changes made to a revision-controlled collection of files. Most often, it
+    is necessary when a file is modified by two people on two different computers at the same
+    time. When two branches are merged, the result is a single collection of files that contains
+    both sets of changes.</p>
 </conbody>
